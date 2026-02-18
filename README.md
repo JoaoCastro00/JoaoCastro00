@@ -20,3 +20,5 @@
 
 ## 📫 Contato
 📩 Email: jbjcastro07@gmail.com
+
+![Snake animation](https://github.com/JoaoCastro00/JoaoCastro00/blob/output/github-contribution-grid-snake-dark.svg)
