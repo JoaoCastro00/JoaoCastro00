@@ -15,8 +15,10 @@
 - 🎮 Jogos simples em C (terminal)
 - 🔧 Ferramentas e automações
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?JoaoCastro00=JoaoCastro00&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=JoaoCastro00&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCastro00&layout=compact&theme=tokyonight)
+
 
 ## 📫 Contato
 📩 Email: jbjcastro07@gmail.com
