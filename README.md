@@ -5,20 +5,15 @@
 🚀 Meu objetivo é virar um profissional completo em TI (software + hardware)
 
 ## 🛠️ Tecnologias que estou aprendendo
-- C
-- Python
-- Git & GitHub
-- Linux
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- P![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Projetos
 - 📂 Organizador de arquivos em Python
 - 🎮 Jogos simples em C (terminal)
 - 🔧 Ferramentas e automações
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JoaoCastro00&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoCastro00&layout=compact&theme=tokyonight)
-
 
 ## 📫 Contato
 📩 Email: jbjcastro07@gmail.com
