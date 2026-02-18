@@ -1,16 +1,22 @@
-## Hi there 👋
+# Sou o João!
 
-<!--
-**JoaoCastro00/JoaoCastro00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudando **C** e **Python**  
+⚙️ Interessado em **hardware**, **sistemas**, automação e tecnologia no geral  
+🚀 Meu objetivo é virar um profissional completo em TI (software + hardware)
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estou aprendendo
+- C
+- Python
+- Git & GitHub
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- 📂 Organizador de arquivos em Python
+- 🎮 Jogos simples em C (terminal)
+- 🔧 Ferramentas e automações
+
+## 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?JoaoCastro00=JoaoCastro00&show_icons=true&theme=tokyonight)
+
+## 📫 Contato
+📩 Email: jbjcastro07@gmail.com
