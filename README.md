@@ -13,12 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"/>
 </p>
 
-
-## 🚀 Projetos
-- 📂 Organizador de arquivos em Python
-- 🎮 Jogos simples em C (terminal)
-- 🔧 Ferramentas e automações
-
 ## 📫 Contato
 📩 Email: jbjcastro07@gmail.com
 
